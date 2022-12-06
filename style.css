@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 295px;
+  border-radius: 10px;
+}
+
+.bayro {
+  width: 299px;
+  border: 2px solid blueviolet;
+  background-color: burlywood;
+  border-radius: 10px;
+  transition: 1s;
+}
+
+.bayro:hover{
+    background-color: blue;
+}
+
+.yozuv{
+    margin-left: 80px;
+}
+
+.tugma{
+    margin-left: 120px;
+}
